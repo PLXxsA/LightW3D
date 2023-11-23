@@ -14,4 +14,4 @@ The following figure shows the comparison of the effect of choosing different tr
 | X3D-M              | 11.4M   | 87.91    | 87.88  | 79.54     | 83.5  | 89.93 |
 | I3D                | 46.9M   | 89.85    | 89.85  | 77.32     | 83.11 | 90.36 |
 | C3D                | 243.64M | 90.38    | 90.38  | 83.35     | 86.72 | 88.48 |
-| LightW3D**(ours)** | 2.91M   | 91.73    | 91.72  | 84.06     | 87.72 | 93.55 |
+| LightW3D(**ours**) | 2.91M   | 91.73    | 91.72  | 84.06     | 87.72 | 93.55 |
