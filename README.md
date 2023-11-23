@@ -8,6 +8,9 @@ The following figure shows the comparison of the effect of choosing different tr
 
 ## Parameter comparison and results
 
+Comparison of parameters with other base models and comparison of results on the Hajjv2 dataset.
+
+
 |       Method       | Params  | Accuracy | Recall | Precision |  F1   |  AUC  |
 | :----------------: | :-----: | :------: | :----: | :-------: | :---: | :---: |
 |      SlowFast      | 128.07M |  90.47   | 90.47  |   81.72   | 85.88 | 92.13 |
